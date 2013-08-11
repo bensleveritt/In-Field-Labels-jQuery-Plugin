@@ -1,6 +1,6 @@
 h1. In-Field Labels jQuery Plugin
 
-*Version:* 0.1.3
+*Version:* 0.1.4
 
 *License:* "Same as jQuery (Dual GPL + MIT)":http://docs.jquery.com/License
 
@@ -93,7 +93,7 @@ h2. Changelog
 
 *Version 0.1.4*
 
-* Add support for a class name to be applied to enhanced label elements. Off by default to not break existing implementations should a existing class name be in use. _Special thanks to "Benjamin Leveritt (@captainreuben)":https://github.com/captainreuben for contributing this addition._
+* Add support for a class name to be applied to enhanced label elements. Off by default to not break existing implementations should a existing class name be in use. _Special thanks to "Benjamin S. Leveritt (@bensleveritt)":https://github.com/bensleveritt for contributing this addition._
 
 *Version 0.1.3*
 
