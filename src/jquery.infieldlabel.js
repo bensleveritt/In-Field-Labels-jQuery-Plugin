@@ -25,6 +25,9 @@
       if ( base.options.className ) {
         base.$label.addClass(base.options.className);
       }
+      
+      // Add text cursor to the label
+      base.$label.css('cursor', 'text');
 
       // Check if the field is already filled in 
       // add a short delay to handle autocomplete
